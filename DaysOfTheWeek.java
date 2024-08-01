@@ -9,7 +9,7 @@ public class DaysOfTheWeek {
         while (true) {
             System.out.println(message);
             try {
-                int x = input.nextInt();
+                int x = Integer.parseInt(input.nextLine());
                 if (x > 0 && x < 7) return x;
                 else throw new Exception();
             } catch (Exception e) {

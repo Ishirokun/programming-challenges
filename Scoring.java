@@ -7,7 +7,7 @@ public class Scoring {
         while (true) {
             System.out.println(message);
             try {
-                return input.nextInt();
+                return Integer.parseInt(input.nextLine());
             } catch (Exception e){
                 System.out.println("Invalid input, please enter a valid number.");
             }
