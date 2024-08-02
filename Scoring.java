@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+
+/**
+ * Challenge # 1
+ */
 public class Scoring {
     static Scanner input = new Scanner(System.in);
 
