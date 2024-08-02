@@ -1,6 +1,9 @@
 import java.util.Scanner;
 import java.time.Month;
 
+/**
+ * Challenge # 2
+ */
 public class DaysInMonth {
 
     static Scanner input = new Scanner(System.in);
