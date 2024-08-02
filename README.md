@@ -11,7 +11,7 @@
    - NumberProperties.java
 6. [x] #6 - Sum of All integer Inputs
    - SumOfIntegers.java
-7. [ ] #7 - Integer input from the user and uses a for loop to generate following pattern
+7. [x] #7 - Integer input from the user and uses a for loop to generate following pattern
    - FollowingPattern.java
 8. [x] #8 - Multiplication Table 10x10
    - MultiplicationTable.java
