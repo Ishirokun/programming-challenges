@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.time.DayOfWeek;
 
+/**
+ * Challenge # 3
+ */
+
 public class DaysOfTheWeek {
 
     static Scanner input = new Scanner(System.in);
